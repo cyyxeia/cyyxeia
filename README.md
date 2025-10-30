@@ -3,4 +3,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyyxeia&layout=compact&theme=tokyonight)
 
-**Rank: C**
+
