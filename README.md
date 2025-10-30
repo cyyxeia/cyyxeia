@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🌙 cyyxeia's GitHub Stats
 
-<!--
-**cyyxeia/cyyxeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. Main Stats Card (with Rating)
+This shows your total stars, commits, PRs, and your rank.
 
-Here are some ideas to get you started:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyyxeia&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2. Top Languages Card
+This shows the languages you use most in your public repositories.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyyxeia&layout=compact&theme=tokyonight)
+
+**Rank: C**
