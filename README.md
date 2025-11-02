@@ -1,6 +1,6 @@
 <h2 style="color:#8e44ad; text-align:center;">Hi, I'm Cyrus 👋</h2>
 <p style="color:#bbbbff; max-width:600px; margin:auto; text-align:center;">
-I'm a Computer Science student with a passion for data and building a career around it. I love exploring programming, solving problems, and creating projects that make an impact.
+I'm a Computer Science student with a passion for data and building a career around it.
 </p>
 
 <h3 style="color:#8e44ad; text-align:center;">Languages & Tools:</h3>
